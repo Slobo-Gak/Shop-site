@@ -37,7 +37,7 @@ body {
 
 /*HEADER*/
 .header {
-    background-image: url('/img/bg-h.png');
+    background-image: url(/img/bg-h.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -177,7 +177,7 @@ body {
         }
 
         .img-wrap {
-            background-image: url('/img/product1.jpg');
+            background-image: url(/img/product1.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 40vh;
@@ -269,7 +269,7 @@ body {
         }
 
         .img-wrap {
-            background-image: url('/img/product2.jpg');
+            background-image: url(/img/product2.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 40vh;
@@ -361,7 +361,7 @@ body {
         }
 
         .img-wrap {
-            background-image: url('/img/product3.jpg');
+            background-image: url(/img/product3.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 40vh;
@@ -453,7 +453,7 @@ body {
         }
 
         .img-wrap {
-            background-image: url('/img/product4.jpg');
+            background-image: url(/img/product4.jpg);
             background-repeat: no-repeat;
             background-size: cover;
             height: 40vh;
@@ -519,7 +519,7 @@ body {
     }
 
     .container-fluid {
-        background-image: url('/img/newsletter.jpg');
+        background-image: url(/img/newsletter.jpg);
         background-repeat: no-repeat;
         background-position: center right;
     }
